@@ -1,7 +1,7 @@
 import React from 'react';
 import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg';
 import instalNode from '../assets/portfolio/installNode.jpg';
-import reactParallax from '../assets/portfolio/reactParallax.jpg';
+import Netflixpic from '../assets/portfolio/Netflixpic.jpeg';
 import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
 // import reactWeather from '../assets/portfolio/reactWeather.jpg';
 import travel from '../assets/portfolio/travel.jpg';
@@ -16,8 +16,8 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: reactParallax,
-      demo: 'https://example.com/demo3',
+      src: Netflixpic,
+      demo: 'https://mern-netflix-ruddy.vercel.app/',
       
     },
     {
