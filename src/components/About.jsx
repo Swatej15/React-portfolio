@@ -27,7 +27,7 @@ const About = () => {
                 <span class="float-left">.NET with C# &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
                 <span class="float-right">(June 6,2022 - July 22,2022)</span><br/><br/>
                 <span class="float-left">MERN Stack Developer &nbsp;&nbsp;&nbsp;(Pardy Panda Studio)</span>
-                <span class="float-right">(February 6,2023 - Currently)</span>
+                <span class="float-right">(February 6,2023 - May 8,2023)</span>
                 </div>
                 <br/>                                    
             </p>
