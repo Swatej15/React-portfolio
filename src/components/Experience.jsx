@@ -6,8 +6,9 @@ import Reactjs from "../assets/react.png"
 import python from "../assets/Python.png"
 import mysql from "../assets/sql2.png"
 import github from "../assets/github.png"
-import tailwind from "../assets/tailwind.png"
-import AI from "../assets/Illustrator-Logo.png"
+import aws from "../assets/aws.png"
+// import AI from "../assets/Illustrator-Logo.png"
+import nodejs from "../assets/node.png"
 
 const Experience = () => {
 
@@ -38,9 +39,9 @@ const Experience = () => {
         },
         {
             id:5,
-            src: tailwind,
-            title: 'Tailwind CSS',
-            style: 'shadow-sky-400'
+            src: nodejs,
+            title: 'NodeJS',
+            style: 'shadow-green-600'
         },
         {
             id:6,
@@ -56,16 +57,17 @@ const Experience = () => {
         },
         {
             id:8,
-            src: github,
-            title: 'Github',
-            style: 'shadow-stone-400'
+            src: aws,
+            title: 'Adobe Illustrator',
+            style: 'shadow-orange-500'
         },
         {
             id:9,
-            src: AI,
-            title: 'Adobe Illustrator',
-            style: 'shadow-red-500'
+            src: github,
+            title: 'Github',
+            style: 'shadow-stone-600'
         },
+        
     ]
   return (
     <div 
