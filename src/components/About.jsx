@@ -13,20 +13,20 @@ const About = () => {
 
             <p className="text-xl mt-20">
             
-                I am Last Year Student of Computer Engineering.
+                I have been completed my computer engineering in 2023 with 8 CGPA.
                 <br/>
-                i have good one Skills in Communication  ,Aptitude  and Leadership.
+                i have good one Skills in Communication ,Aptitude  and Leadership.
             </p>
             <br />
             <p className="text-xl">
-                I have done 2 Internship and currently doing internship On MERN Stack developer.<hr/>
+                I have completed few internship one as Python developer second is .NET developer and third one is MERN Stack developer.<hr/>
                 <br />
                 <div class="w-full">
                 <span class="float-left">Python with Django &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
                 <span class="float-right">(January 10,2022 - september 22,2022)</span> <br/><br/>
                 <span class="float-left">.NET with C# &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
                 <span class="float-right">(June 6,2022 - July 22,2022)</span><br/><br/>
-                <span class="float-left">MERN Stack Developer &nbsp;&nbsp;&nbsp;(Pardy Panda Studio)</span>
+                <span class="float-left">MERN Stack Developer &nbsp;&nbsp;&nbsp;(Pardy Panda Studio PVT LTD.)</span>
                 <span class="float-right">(February 6,2023 - May 8,2023)</span>
                 </div>
                 <br/>                                    
