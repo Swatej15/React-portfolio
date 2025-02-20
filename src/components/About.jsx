@@ -13,21 +13,22 @@ const About = () => {
 
             <p className="text-xl mt-20">
             
-                I have been completed my computer engineering in 2023 with 8 CGPA.
+                Detail-oriented computer science graduate interested in Data Science, Data Analysis, Data Engineering, Machine Learning, and
+                Software engineering dedicated to assisting companies in strategic decision-making through predictive modeling.
                 <br/>
-                i have good one Skills in Communication ,Aptitude  and Leadership.
+                Proficient in coding, fixing bugs, and software development with a disciplined approach to version control..
             </p>
             <br />
             <p className="text-xl">
                 I have completed few internship one as Python developer second is .NET developer and third one is MERN Stack developer.<hr/>
                 <br />
                 <div class="w-full">
-                <span class="float-left">Python with Django &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
-                <span class="float-right">(January 10,2022 - september 22,2022)</span> <br/><br/>
-                <span class="float-left">.NET with C# &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
-                <span class="float-right">(June 6,2022 - July 22,2022)</span><br/><br/>
+                <span class="float-left">Data Analyst &nbsp;&nbsp;&nbsp;(Office24 Hours.)</span>
+                <span class="float-right">(June, 2023 - August, 2024)</span>
                 <span class="float-left">MERN Stack Developer &nbsp;&nbsp;&nbsp;(Pardy Panda Studio PVT LTD.)</span>
-                <span class="float-right">(February 6,2023 - May 8,2023)</span>
+                <span class="float-right">(February, 2023 - May, 2023)</span>
+                <span class="float-left">Programming In Core And Advance Python With SQL &nbsp;&nbsp;&nbsp;(URO WEB SOFT.)</span>
+                <span class="float-right">(June, 2022 - september, 2022)</span> <br/><br/>
                 </div>
                 <br/>                                    
             </p>
